@@ -9,7 +9,6 @@ my_file.write(
     json.dumps(
         [
             {"name": "Victor", "lastname": "Jimenez"},
-            {"name": "Cinthya", "lastname": "Garamendi"},
         ]
     )
 )
